@@ -63,6 +63,6 @@ springdoc:
     use-root-path: true
 #    urls:
 #      - name: catalog
-#        url: /v3/api-docs/catalog
+#        url: /v3/api-docs/catalogs
 #      - name: orders
-#        url: /v3/api-docs/orders
+#        url: /v3/api-docs/order
